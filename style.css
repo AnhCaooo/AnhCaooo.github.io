@@ -1,0 +1,18 @@
+body{
+  background-color:skyblue;
+} 
+img{
+  float: right
+}
+h1{
+  color: red;
+  text-decoration: underline;
+}
+h3{
+  color: aquamarine;
+  border-radius: 20%;
+}
+p{
+  color: rosybrown;
+  font-family: arial;
+}

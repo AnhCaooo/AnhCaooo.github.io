@@ -1,8 +1,8 @@
 body{
-  background-color:skyblue;
+  background-color:black;
 } 
 img{
-  float: right
+  float: center
 }
 h1{
   color: red;
@@ -13,6 +13,6 @@ h3{
   border-radius: 20%;
 }
 p{
-  color: rosybrown;
+  color: snow;
   font-family: arial;
 }

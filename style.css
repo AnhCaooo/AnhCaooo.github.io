@@ -16,3 +16,29 @@ p{
   color: snow;
   font-family: arial;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-areas: 
+  "a a a a a" 
+  "b b b b b"
+  "c c c c c"
+  "d d d d d"
+  "e e e e e";
+}
+
+.grid-item0{
+   grid-area: a;
+}
+.grid-item1{
+    grid-area: b;
+}
+.grid-item2{
+    grid-area: c;
+}
+.grid-item3{
+    grid-area: d;
+}
+.grid-item4{
+    grid-area: e;
+}
